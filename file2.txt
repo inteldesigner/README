@@ -7,3 +7,5 @@ Cost: Is there a maximum cost? Do you need to keep this project within a budget 
 Customer: who is your project for? What is the target user's age, gender, socio-economic background?
 
 Resources> what resources are available? Are there limitations as to how this can be created?
+
+In file2 I am adding also another sample of my work....
