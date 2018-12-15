@@ -14,4 +14,7 @@ Extracting relevant information: How do I extract only relevant information and 
 Collating and synthesizing information: How can I transfer this research to my product/ outcome?
 
 
-Xtended files are usually used in the branch, because I am adding samples of my work...
+
+
+
+the "Xtended" files in this case is used in the branch, sample of this exercise...
